@@ -35,10 +35,6 @@ RUN apt-get update \
     sudo \
     tesseract-ocr \
     tesseract-ocr-eng \
-    tesseract-ocr-deu \
-    tesseract-ocr-fra \
-    tesseract-ocr-ita \
-    tesseract-ocr-spa \
     tzdata \
     unpaper \
     unzip \
