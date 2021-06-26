@@ -1,6 +1,7 @@
 {
   "name": "Paperless-ng",
   "slug": "paperless",
+  "version": "master",
   "url": "https://github.com/jonaswinkler/paperless-ng",
   "description": "Paperless is an application that manages your personal documents. With the help of a document scanner, paperless transforms your wieldy physical document binders into a searchable archive and provides many utilities for finding and managing your documents.",
   "image": "alryaz/paperless-ng-addon-{arch}",
