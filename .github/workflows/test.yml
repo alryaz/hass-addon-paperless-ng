@@ -16,4 +16,4 @@ jobs:
           --test \
           --all \
           --target paperless-ng \
-          --docker-hub cyclickdevelopment
+          --docker-hub alryaz
